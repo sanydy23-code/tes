@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-bagel: "Bagel Fat One", system-ui;
+  --font-libre: "Libre Caslon Text", serif;
+}
